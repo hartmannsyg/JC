@@ -1,0 +1,6 @@
+services:
+  jakartan_cigar:
+    privileged: false
+    build: .
+    ports:
+      - "3000:3000"
