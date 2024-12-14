@@ -97,4 +97,54 @@
 <br>
 <br>
 
-2. If you do a bit of googling with "ejs prototype pollution", you basically get a writeup for this chal: https://blog.huli.tw/2023/06/22/en/ejs-render-vulnerability-ctf/
+2. Its ejs that is vulnerable
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+3. If you do a bit of googling with "ejs prototype pollution", you basically get a writeup for this chal: https://blog.huli.tw/2023/06/22/en/ejs-render-vulnerability-ctf/. Other writeups are outdated
